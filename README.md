@@ -143,7 +143,7 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
      - **Reading:** [JWT Basics](https://jwt.io/introduction/)  
      - **Video:** [JWT Implementation Guide](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Create React forms for login and signup.
-     - **Reading:** [React Forms](https://react.dev/reference/react/forms)  
+     - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)  
      - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ)
 
 - **Deliverables:**
