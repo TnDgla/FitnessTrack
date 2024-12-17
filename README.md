@@ -182,7 +182,7 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
      - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ)
   3. Ensure proper validation for all inputs.
      - **Reading:** [React Input Validation](https://reactjs.org/docs/forms.html#controlled-components)  
-     - **Video:** [Form Validation in React](https://www.youtube.com/watch?v=HcOy6jQ8-dc)
+     - **Video:** [Form Validation in React](https://www.youtube.com/watch?v=EYpdEYK25Dc)
 
 - **Deliverables:**
   - A responsive profile management page.
