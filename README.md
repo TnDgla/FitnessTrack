@@ -2,7 +2,7 @@
 
 ## Project Name: FitnessTrack
 
-**FitnessTrack** is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users track their fitness activities, manage workouts, and monitor calories burned. The app features user authentication, charts for progress visualization, responsive design, and data management.
+FitnessTrack is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users track their fitness activities, manage workouts, and monitor calories burned. The app features user authentication, charts for progress visualization, responsive design, and data management.
 
 ---
 
