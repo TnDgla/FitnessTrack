@@ -160,7 +160,7 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
      - **Video:** [Mongoose Models](https://www.youtube.com/watch?v=DZBGEVgL2eE)
   2. Create APIs for adding, updating, and deleting workouts.
      - **Reading:** [RESTful API Design](https://restfulapi.net/)  
-     - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pgpFFLCk6Lg)
+     - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=898s)
   3. Design a React dashboard to display statistics using Chart.js.
      - **Reading:** [Chart.js Documentation](https://www.chartjs.org/docs/latest/)  
      - **Video:** [React Chart.js Tutorial](https://www.youtube.com/watch?v=Ly-9VTXJlnA)
