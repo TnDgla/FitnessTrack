@@ -120,11 +120,12 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
      - **Reading:** [Setting Up MERN Stack](https://www.mongodb.com/mern-stack)  
      - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
   2. Initialize React and Express apps.
-     - **Reading:** [React App Basics](https://reactjs.org/docs/getting-started.html)  
+     - **Reading:** [React App Basics](https://react.dev/learn)  
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
+     - **Video:**[React Basics](https://www.youtube.com/watch?v=SqcY0GlETPk)
   3. Install Styled Components for CSS styling.
      - **Reading:** [Styled Components Docs](https://styled-components.com/)  
-     - **Video:** [Styled Components Tutorial](https://www.youtube.com/watch?v=O7xE4MRV4bY)
+     - **Video:** [Styled Components Tutorial](https://www.youtube.com/watch?v=02zO0hZmwnw)
 
 - **Deliverables:**
   - Basic project setup with backend and frontend initialized.
