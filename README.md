@@ -118,7 +118,7 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
 - **Tasks:**
   1. Install Node.js, React.js, and MongoDB.
      - **Reading:** [Setting Up MERN Stack](https://www.mongodb.com/mern-stack)  
-     - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
+     - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=22Rywce_kcg)
   2. Initialize React and Express apps.
      - **Reading:** [React App Basics](https://react.dev/learn)  
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
@@ -201,7 +201,7 @@ The FitnessTrack Web App architecture demonstrates the interaction between the f
      - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
   3. Test the entire app for bugs and optimize performance.
      - **Reading:** [Testing React Applications](https://reactjs.org/docs/testing.html)  
-     - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=8EogWSvGfWY)
+     - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=1819s)
 
 - **Deliverables:**
   - A live FitnessTrack application accessible via a public URL.
